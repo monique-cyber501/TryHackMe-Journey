@@ -1,20 +1,20 @@
 # TryHackMe: First Guided Challenge - Beginner Level
 
-## 📌 Challenge Summary
+##  Challenge Summary
 This was my first guided room designed for beginners. It introduced:
 - Basic terminal commands
 - File inspection
 - Entry-level reconnaissance
 
-## 🛠️ Skills Practiced
+##  Skills Practiced
 - Using `ls`, `cat`, and `file`
 - Finding hidden files
 - Understanding file permissions
 
-## 🧠 Reflections
+##  Reflections
 A great start to learning how analysts investigate systems and uncover key data.
 
-## 📸 Screenshot
+##  Screenshot
 
 ![tryhackme challenge 1 stage 1](https://github.com/user-attachments/assets/3b0f61b7-86cd-4e4d-9c73-fa11a6b1eb21)
 ![tryhackme stage 2](https://github.com/user-attachments/assets/00bcfed7-aa53-4a4f-bb71-31c071c4ba0d)
