@@ -12,7 +12,7 @@ This was my first guided room designed for beginners. It introduced:
 - Understanding file permissions
 
 ##  Reflections
-A great start to learning how analysts investigate systems and uncover key data.
+A great start to learning how analysts investigate systems and uncover key data. While this was a beginner-level room, I noticed how even simple attack vectors rely on human assumptions, like misnamed files or unguarded directories, This gave me a greater appreciation for the importance of layered defenses and not relying soley on tools. 
 
 ##  Screenshot
 
