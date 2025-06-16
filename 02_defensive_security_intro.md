@@ -1,6 +1,5 @@
 # Challenge 02 – Defensive Security Introduction  
- Completed: June 15, 2025  
-
+ 
 ##  Objective  
 Simulate the role of a SOC analyst by detecting and responding to a suspicious login attempt. Use basic investigation and defensive techniques to block a malicious IP and document the incident.
 
