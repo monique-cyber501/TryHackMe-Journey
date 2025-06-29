@@ -1,0 +1,25 @@
+# Wireshark: The Basics – TryHackMe Lab
+
+##  Lab Overview
+Completed TryHackMe’s Wireshark lab to build practical network packet analysis skills using real-world capture files.
+
+##  What I Learned
+- Filtering network traffic using Wireshark display filters
+- Identifying protocol behavior (HTTP, DNS, TCP, ICMP)
+- Reconstructing transferred files from packet data
+- Understanding how attackers hide or exfiltrate data
+
+##  Skills Applied
+- Network protocol analysis  
+- Security investigation techniques  
+- Practical use of Wireshark in threat detection  
+
+
+##  Why This Matters
+These skills are essential for roles in:
+- SOC analysis
+- Threat hunting
+- Incident response
+
+This lab helped bridge theoretical knowledge with tools I’ll use in real-world environments.
+
