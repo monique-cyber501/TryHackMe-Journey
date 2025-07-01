@@ -1,0 +1,50 @@
+# TryHackMe: Incident Response Fundamentals
+
+## Overview
+
+This room provides a practical breakdown of how cybersecurity teams manage and respond to incidents using a structured framework. It focuses on the **NIST 800-61** approach and walks through real-world concepts that are essential for anyone working in security operations or blue team roles.
+
+---
+
+## Objectives Covered
+
+- Understand the full **Incident Response lifecycle**
+- Learn how to structure incident response using the **NIST framework**
+- Explore roles, responsibilities, and communication in an IR plan
+- Recognize the importance of preparation, documentation, and evidence handling
+- Gain insight into both the technical and procedural sides of response
+
+---
+
+## Skills Developed
+
+| Category                      | Description |
+|------------------------------|-------------|
+|  Incident Response Theory   | Learned how NIST breaks down response into six repeatable phases |
+|  SOC Analyst Awareness      | Gained clarity on how SOC teams detect, investigate, and respond to threats |
+|  Threat Identification      | Explored methods for identifying indicators of compromise (IOCs) |
+|  Containment & Eradication | Studied containment techniques and why timing matters |
+|  Forensics & Documentation | Understood the value of preserving logs and maintaining chain of custody |
+|  Post-Incident Review       | Learned how teams perform debriefs and strengthen future defenses |
+
+---
+
+## Key Takeaways
+
+- **Preparedness is everything.** The faster your team can identify roles, assets, and response steps, the better the outcome.
+- **Incident response is a team effort.** Communication plans and defined roles are just as critical as tools and alerts.
+- **Every phase has weight.** Skipping containment or lessons learned can lead to deeper compromise or repeated attacks.
+- **Documentation protects you.** If it’s not written, it didn’t happen—from evidence logs to decision records.
+
+---
+
+## My Learning Impact
+
+Completing this room helped sharpen my understanding of what happens during a security incident beyond just the technical response. I now better appreciate the operational and legal implications of IR and how it connects directly to blue team roles like SOC analyst, incident handler, or forensic investigator.
+
+As someone preparing for a cybersecurity career, this room gave me a foundational framework for how incidents are structured and responded to in the real world. It bridges theory and practice in a way that's easy to understand and apply.
+
+---
+
+
+
