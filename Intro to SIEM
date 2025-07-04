@@ -1,0 +1,50 @@
+#  TryHackMe: Intro to SIEM
+
+
+##  Room Overview  
+This room provides a foundational, scenario-driven introduction to **Security Information and Event Management (SIEM)** systems. It breaks down the purpose, components, and daily use of SIEMs within a Security Operations Center (SOC), guiding users through a practical threat investigation without requiring external tools or platforms.
+
+This was an ideal starting point for learning how security teams leverage SIEMs to detect, investigate and respond to malicious activity across an enterprise network.
+
+---
+
+##  What I Learned  
+
+- **What a SIEM does**: collecting, aggregating and analyzing logs in real-time  
+- **Common data sources**: Windows logs, authentication attempts, group policy changes, etc.  
+- **The role of log normalization and correlation**  
+- **How alerts are generated** based on suspicious patterns  
+- **Attack detection** through logical investigation, using indicators like failed logons, PowerShell execution and privilege escalation  
+- **Incident response mindset**: piecing together events to trace the full attack path
+
+---
+
+##  Walkthrough Summary  
+
+### 1. **What is a SIEM?**  
+- Learned how SIEMs support monitoring, detection and compliance  
+- Understood SIEM’s position within the SOC workflow and why they’re vital for blue teams  
+
+### 2. **Understanding the Attack**  
+- Analyzed a multi-step attack scenario starting with brute-force login attempts  
+- Identified signs of lateral movement, suspicious scripts and user privilege abuse  
+- Mapped security event types (Logon, PowerShell, Account Management) to stages of the attack lifecycle  
+
+### 3. **Log Analysis Without Tools**  
+- Practiced reading and interpreting raw Windows event logs  
+- Followed a logical sequence of security events to reconstruct attacker behavior  
+- Answered investigative questions using provided logs and context  
+
+---
+
+##  Key Skills Gained  
+
+- Basic log reading and event ID interpretation  
+- Recognition of common attack signatures in logs (e.g., Event ID 4625 – failed login)  
+- Logical threat investigation without relying on automation  
+- Understanding how different event types connect in an actual attack chain  
+- Awareness of how SIEMs generate value through correlation and visibility
+
+---
+
+
